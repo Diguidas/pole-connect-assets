@@ -1,7 +1,16 @@
 {
   "lista": [
-    "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
-    "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
-    "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg"
+    {
+      "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
+      "arquivo": "https://raw.githubusercontent.com/.../tabela_precos.pdf"
+    },
+    {
+      "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
+      "arquivo": "https://raw.githubusercontent.com/.../manual_uso.pdf"
+    },
+    {
+      "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
+      "arquivo": "https://raw.githubusercontent.com/.../manual_uso.pdf"
+    }
   ]
 }
