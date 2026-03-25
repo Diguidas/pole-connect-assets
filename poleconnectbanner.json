@@ -2,15 +2,15 @@
   "lista": [
     {
       "imagem": "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
-      "arquivo": "https://raw.githubusercontent.com/.../tabela_precos.pdf"
+      "arquivo": "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/Retrospectiva%20-%20Sprint%2010.pdf"
     },
     {
       "imagem": "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
-      "arquivo": "https://raw.githubusercontent.com/.../manual_uso.pdf"
+      "arquivo": ""
     },
     {
       "imagem": "https://raw.githubusercontent.com/Diguidas/pole-connect-assets/main/banner1.jpeg",
-      "arquivo": "https://raw.githubusercontent.com/.../manual_uso.pdf"
+      "arquivo": ""
     }
   ]
 }
